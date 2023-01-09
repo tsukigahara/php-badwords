@@ -17,3 +17,4 @@ $newText = str_replace($search, $replace, $text);
   echo strlen($newText);
   ?>
 </h2>
+<h2>inserire nel link <code>?badword="parola da censurare"</code> per la censura</h2>
